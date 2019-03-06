@@ -1,5 +1,5 @@
 def loop
-  
+
   def countdown (num)
 
     while num is > 0 do
@@ -7,7 +7,7 @@ def loop
     num -= 1
     end
   end
-  
+
 return "HAPPY NEW YEAR!"
 end
 
